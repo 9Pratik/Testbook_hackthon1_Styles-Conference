@@ -23,10 +23,8 @@ body{
 
 }
 .nav_right h3{
-    display: inline;
     position: relative;
     top: 10px;
-    left: 40vh;
     color: #1c8030;
     font-weight: 300;
 }
